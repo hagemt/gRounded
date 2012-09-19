@@ -1,0 +1,3 @@
+[submodule "lib/libalexandria"]
+	path = lib/libalexandria
+	url = git@github.com:hagemt/libalexandria.git
